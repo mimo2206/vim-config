@@ -24,7 +24,9 @@ Plug 'nordtheme/vim'
 call plug#end()
 "end of plugins
 
-
+"sets visual vim stuff
+set number
+set relativenumber
 set clipboard=unnamedplus
 
 "themes
